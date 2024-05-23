@@ -22,8 +22,9 @@ Retrouvez **vos chevaux favoris** :
 Jusqu'à 4 joueurs (sur le même écran).
 PC speaker sound.
 
-https://github.com/Bounito/tierce.cpp/assets/55545659/484d5307-1b65-4d28-ab41-f41d51455e3a
 https://github.com/Bounito/tierce.cpp/assets/55545659/d74b662e-6e8b-46c7-9948-4a01948eb09a
+
+https://github.com/Bounito/tierce.cpp/assets/55545659/484d5307-1b65-4d28-ab41-f41d51455e3a
 
 cprintf("\n             Merci d'avoir joué à TIERCE, Bonne Journée !");
 
